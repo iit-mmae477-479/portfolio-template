@@ -31,7 +31,7 @@ with what result.)*
 | `07-pdr` | Review | Preliminary Design Review |
 | `08-motor-characterization` | Propulsion | Motor model + bench data |
 | `09-propeller-characterization` | Propulsion | Thrust curves |
-| `10-propulsion-selection` | Design | Propulsion selection + defense |
+| `10-propulsion-verification` | Verify | Propulsion verification + defense |
 | `11-system-dynamics` | Model | Inertia + response simulation |
 | `12-fabrication` | Prototype | Build log + released CAD |
 | `13-validation` | Test | Model–experiment reconciliation |
