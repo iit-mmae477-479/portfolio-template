@@ -1,26 +1,33 @@
 # Mass Budget: living document
 
-Started in Lab 1 from measured component masses. Updated **every week**. The
-mass budget is the coupling variable between structures and propulsion,
-and its history is part of the final defense.
+Started in Lab 1 from measured component masses. Updated **every week**.
 
-**Constraint: max takeoff mass ≤ [TBD] g, frame budget ≤ [TBD] g** (see course
-requirements sheet)
+**What this tracks.** Your avionics, propulsion, and power components come
+from a fixed parts list. Their masses are given, not something you choose or
+trade off, they're recorded here so the total is visible. The frame is
+different: its mass is a design variable you control, and it is measured
+against the structural mass ceiling below. Its history is evidence in your
+final defense.
+
+**Constraint: frame mass ≤ [TBD] g. Total system mass ≤ [TBD] g** (see course
+requirements sheet). The frame ceiling is the number you're actually
+designing to; the total is a check, not something you optimize across
+subsystems.
 
 ## Current budget
 
 | Subsystem | Component | Mass (g) | Source (measured / datasheet / estimate) | Margin held |
 |---|---|---|---|---|
-| Avionics | Flight controller | | | |
-| Avionics | Companion computer | | | |
-| Avionics | Camera | | | |
-| Propulsion | Motors (×4) | | | |
-| Propulsion | ESCs | | | |
-| Propulsion | Propellers (×4) | | | |
-| Power | Battery | | | |
-| Power | Wiring & connectors | | | |
-| Structure | Frame (YOUR design variable) | | | |
-| Structure | Fasteners & mounts | | | |
+| Avionics *(fixed input)* | Flight controller | | | n/a |
+| Avionics *(fixed input)* | Companion computer | | | n/a |
+| Avionics *(fixed input)* | Camera | | | n/a |
+| Propulsion *(fixed input)* | Motors (×4) | | | n/a |
+| Propulsion *(fixed input)* | ESCs | | | n/a |
+| Propulsion *(fixed input)* | Propellers (×4) | | | n/a |
+| Power *(fixed input)* | Battery | | | n/a |
+| Power *(fixed input)* | Wiring & connectors | | | n/a |
+| **Structure (your design variable)** | Frame | | | |
+| **Structure (your design variable)** | Fasteners & mounts | | | |
 | **Total** | | | | |
 
 **Rule: every mass is tagged with its source.** Estimates carry margin;

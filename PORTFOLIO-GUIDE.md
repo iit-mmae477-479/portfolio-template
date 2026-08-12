@@ -45,9 +45,11 @@ These are skeletons we provide and content you write, continuously:
   you'll be asked at the PDR and defenses. A well-kept log means your defense
   assembles itself. An empty one means reconstructing months of reasoning the
   night before.
-- **`mass-budget.md`**: updated every week from Lab 1. Mass is the variable
-  that couples your structure to your propulsion system, and its history is
-  evidence in your final defense. Tag every number: measured, datasheet, or
+- **`mass-budget.md`**: updated every week from Lab 1. Your avionics,
+  propulsion, and power components are fixed by the parts list, they're
+  recorded here for total-mass awareness, not because you choose them. The
+  frame is the one row that's a real design variable, tracked against the
+  structural mass ceiling. Tag every number: measured, datasheet, or
   estimate.
 
 **Not sure what "good" looks like?** See
