@@ -1,0 +1,24 @@
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# CAD temp/backup (Inventor, Fusion, SolidWorks)
+*.bak
+*.old
+*.lck
+*.log
+OldVersions/
+*.dwl
+*.dwl2
+~$*
+
+# Never commit these
+*.mp4
+*.mov
+*.zip
