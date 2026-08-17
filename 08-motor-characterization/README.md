@@ -1,7 +1,7 @@
 # motor-characterization
 
 **Deliverable:** Motor model + data
-**Due:** W8
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

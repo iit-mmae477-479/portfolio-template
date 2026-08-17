@@ -1,7 +1,7 @@
 # propulsion-verification
 
 **Deliverable:** Propulsion verification + oral defense
-**Due:** W10
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

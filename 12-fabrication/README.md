@@ -1,7 +1,7 @@
 # fabrication
 
 **Deliverable:** Build log + released CAD
-**Due:** W12-13
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

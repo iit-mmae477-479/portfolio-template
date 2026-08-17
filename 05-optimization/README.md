@@ -1,7 +1,7 @@
 # optimization
 
 **Deliverable:** Optimized frame candidate
-**Due:** W5
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

@@ -1,7 +1,7 @@
 # validation
 
 **Deliverable:** Test data + model reconciliation
-**Due:** W14
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

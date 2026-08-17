@@ -1,7 +1,7 @@
 # structural-analysis
 
 **Deliverable:** Hand calculations, 4 load cases
-**Due:** W3
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

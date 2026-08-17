@@ -30,7 +30,8 @@ status box when done, and don't otherwise edit them.
 
 **A PDR (Preliminary Design Review)** is an industry-standard gate. You present
 your requirements, the concepts you considered, your analysis, and your chosen
-design, and must defend it before building anything. Ours is week 7.
+design, and must defend it before building anything. Ours closes the structures
+phase, mid-semester. All dates live on the Canvas schedule, not in this repo.
 
 ## The three living documents at root
 

@@ -1,7 +1,7 @@
 # final-defense
 
 **Deliverable:** Final defense + portfolio summary
-**Due:** W16/finals
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

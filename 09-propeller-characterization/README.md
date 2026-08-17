@@ -1,7 +1,7 @@
 # propeller-characterization
 
 **Deliverable:** Thrust curves
-**Due:** W9
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

@@ -1,7 +1,7 @@
 # materials
 
 **Deliverable:** Material shortlist + justification
-**Due:** W4
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

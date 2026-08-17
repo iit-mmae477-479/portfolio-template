@@ -1,7 +1,7 @@
 # concepts
 
 **Deliverable:** Concept sketches + Pugh chart
-**Due:** W2
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

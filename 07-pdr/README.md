@@ -1,7 +1,7 @@
 # pdr
 
 **Deliverable:** Preliminary Design Review
-**Due:** W7 (Fri Oct 2)
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

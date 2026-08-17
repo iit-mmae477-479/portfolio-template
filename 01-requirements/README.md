@@ -1,7 +1,7 @@
 # requirements
 
 **Deliverable:** Requirements document
-**Due:** W1 (Fri Aug 21)
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

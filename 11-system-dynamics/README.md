@@ -1,7 +1,7 @@
 # system-dynamics
 
 **Deliverable:** Updated mass budget + simulation
-**Due:** W11
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 

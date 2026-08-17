@@ -1,7 +1,7 @@
 # fea
 
 **Deliverable:** FEA vs. hand-calc reconciliation
-**Due:** W6
+**Due:** see the course schedule on Canvas
 
 ## What belongs here
 
