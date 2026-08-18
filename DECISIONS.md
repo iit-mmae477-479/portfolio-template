@@ -1,13 +1,12 @@
 # Design Decision Log
 
 Every consequential design decision gets a row **when it is made**, not
-reconstructed later. This log is the backbone of the PDR, the propulsion
-defense, and the final defense. The defense rubric asks exactly these
-questions.
+reconstructed later. This log is the backbone of every design review and
+defense this semester, they ask exactly these questions.
 
 | # | Date | Decision | Alternatives considered | Criteria used | Evidence (link) | Assumptions still uncertain |
 |---|---|---|---|---|---|---|
-| 1 | | *e.g. Frame architecture: true-X over H-frame* | *H-frame, hybrid, plus* | *stiffness/mass, print time, symmetry* | *`02-concepts/pugh-chart`* | *arm cross-section not yet sized* |
+| 1 | | *e.g. Sizing exercise: chose the unmanned track* | *unmanned, manned* | *component availability, familiarity, scope* | *`00-drone-sizing-exercise/sizing-table.md`* | *how these numbers compare to the real course constraints, not yet set* |
 | 2 | | | | | | |
 
 **A good row survives the question: "Why should I believe this was the right
