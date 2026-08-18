@@ -6,7 +6,7 @@ defense this semester, they ask exactly these questions.
 
 | # | Date | Decision | Alternatives considered | Criteria used | Evidence (link) | Assumptions still uncertain |
 |---|---|---|---|---|---|---|
-| 1 | | *e.g. Sizing exercise: chose the unmanned track* | *unmanned, manned* | *component availability, familiarity, scope* | *`00-drone-sizing-exercise/sizing-table.md`* | *how these numbers compare to the real course constraints, not yet set* |
+| 1 | | *e.g. Sizing exercise: chose the unmanned track* | *unmanned, manned* | *component availability, familiarity, scope* | *`00-drone-sizing-exercise/sizing-table.csv`* | *how these numbers compare to the real course constraints, not yet set* |
 | 2 | | | | | | |
 
 **A good row survives the question: "Why should I believe this was the right
