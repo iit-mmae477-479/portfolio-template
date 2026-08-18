@@ -9,19 +9,43 @@ reflection. That's the whole bar.
 
 ## The exercise
 
-Two tracks. Pick one.
+Two tracks, same flying platform, different brain and senses. Pick one.
 
-- **Track A: fully unmanned.** [Component list to be provided in lab.]
-- **Track B: manned.** [Component list to be provided in lab.]
+**Both tracks share this platform.** Don't source the frame, assume 100 to
+150 g for it and its hardware, it's something you'll design later in the
+course, not something to shop for. Everything else here, find a real part
+for:
 
-For each component on your track's list, find a real, currently-sold
-commercial part that could do the job. Record its mass and its price, and
-where you found the number (a link or a product page is enough). Total both
-columns and compare them to the rough target budget given in lab.
+- Motors (×4), small hobby class
+- ESCs, a 4-in-1 stack
+- Propellers (×4, plus spares), matched to the motors
+- Battery (LiPo)
+- Wiring, connectors, power distribution
+- Flight controller, a basic hobby unit
+- RC receiver, matched to a transmitter. On both tracks, one is present, on
+  Track B it's the primary control link, on Track A it's the safety
+  pilot's override, a manual kill switch a human can use if the autonomy
+  misbehaves
+
+**Track A: fully autonomous.** Everything above, plus:
+
+- Companion computer, small onboard compute for running perception and
+  navigation
+- Camera, for vision-based navigation
+- GPS module, position reference
+
+**Track B: human-piloted.** Everything in the shared list. Nothing more,
+this is the simpler build.
+
+For each component, find a real, currently-sold commercial part that could
+do the job. Record its mass and its price, and where you found the number
+(a link or a product page is enough). Total both columns and compare them
+to the rough target budget given in lab.
 
 This is a first pass, not a commitment. Nobody is building to these numbers.
-The point is to get a feel for where mass and cost actually come from before
-any real design decision gets made.
+The point is to get a feel for where mass and cost actually come from, and
+to see concretely what autonomy costs, before any real design decision gets
+made.
 
 ## What belongs here
 
