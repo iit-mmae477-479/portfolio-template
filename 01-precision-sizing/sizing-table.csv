@@ -1,0 +1,14 @@
+Component,Onboard or Ground,Qty,Unit mass (g),Total mass (g),Part found (name + link),Price ($),Notes
+Frame,Onboard,1,100,100,n/a - assumed,n/a,"FIXED VALUE - designed later in the course, do not change"
+Wiring / Connectors / Power Distribution,Onboard,1,20,20,n/a - assumed,n/a,"FIXED VALUE - given allowance, do not change"
+Motors,Onboard,4,,,,,must cite a real thrust source - one of the README's 3 candidates (researched) or your own documented motor
+ESC (4-in-1),Onboard,1,,,,,
+Propellers (+ spares),Onboard,4,,,,,buy spares; only the 4 flying count toward mass
+Battery (LiPo),Onboard,1,,,,,
+Flight Controller,Onboard,1,,,,,
+RC Receiver,Onboard,1,,,,,receiver only - matched to your transmitter
+RC Transmitter,Ground - excluded,1,,,,,handheld controller; does not count toward vehicle mass
+Companion Computer (Track A only),Onboard,1,,,,,leave blank if Track B
+Camera (Track A only),Onboard,1,,,,,leave blank if Track B
+GPS Module (Track A only),Onboard,1,,,,,leave blank if Track B
+Total (Onboard only),,,,,,,sum of Total mass for all Onboard rows - this is your W
