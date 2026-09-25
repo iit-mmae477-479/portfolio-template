@@ -1,0 +1,8 @@
+run,geometry,load_case,mesh_refinement,num_elements,load_per_motor_gf,load_per_motor_N,max_disp_mm,tip_disp_probe_mm,stress_type,max_stress_MPa,max_stress_gf_mm2,max_stress_location,arm_mid_stress_MPa,arm_mid_stress_gf_mm2
+fillet_1,fillet,hover,1 (default),,,,,,,,,,,
+fillet_2,fillet,hover,2,,,,,,,,,,,
+fillet_3,fillet,hover,3 (finest),,,,,,,,,,,
+sharp_1,sharp,hover,1 (default),,,,,,,,,,,
+sharp_2,sharp,hover,2,,,,,,,,,,,
+sharp_3,sharp,hover,3 (finest),,,,,,,,,,,
+fullthrottle,fillet,full_throttle,3 (finest),,,,,,,,,,,
