@@ -1,0 +1,12 @@
+part,configuration,n_cells,quantity,value,units
+case1,1,1,N_AB,,gf
+case1,1,1,N_AC,,gf
+case2,2A,2,critical_member_force,,gf
+case2,2A,2,max_abs_N,,gf
+case2,2B,2,N_BC,,gf
+case2,2B,2,critical_member_force,,gf
+case2,2B,2,max_abs_N,,gf
+multicell,A,6,diag_abs_N,,gf
+multicell,A,6,max_abs_N,,gf
+multicell,B,6,diag_abs_N,,gf
+multicell,B,6,max_abs_N,,gf
