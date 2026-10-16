@@ -1,0 +1,5 @@
+step,load_case,L_mm,b_mm,h_mm,response,beam_theory,fea_face_fit,unit
+1,Fy,120,20,10,v_L,,,mm
+2,Fz,120,20,10,w_L,,,mm
+3,Fy+My,120,20,10,w_L,,,mm
+4,Mx,120,20,10,theta_x,,,deg
