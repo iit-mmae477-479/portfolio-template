@@ -1,0 +1,27 @@
+step,quantity,value,units,source / notes
+1,vehicle weight W,,g,onboard total from sizing-table.csv
+1,battery cell count,,S,
+1,battery nominal voltage V,,V,3.7 V per cell
+2,hover thrust per motor T_hover,,g,W / 4
+3,motor (name and KV),,,
+3,propeller,,,
+3,thrust table source,,,name + link
+3,hover throttle,,%,from thrust table; interpolate if needed
+3,hover current (battery),,A,per motor
+3,hover rpm,,rpm,
+3,full-throttle thrust T_max,,g,per motor
+3,full-throttle current I_max,,A,per motor
+3,full-throttle rpm,,rpm,
+3,hover margin T_hover / T_max,,%,target <= 35%
+4,no-load speed KV x V,,rpm,
+4,full-throttle rpm / no-load speed,,-,should be below 1
+4,torque constant Kt,,N m/A,9.55 / KV
+4,hover motor current I_battery / throttle,,A,
+4,hover torque,,N m,Kt x motor current
+4,hover torque,,gf mm,1 N m = 101972 gf mm
+4,Q/T at hover,,mm,Lab 07 assumed 15 mm
+5,ESC rating per motor,,A,target >= 1.2 x I_max
+5,battery capacity,,mAh,
+5,battery C-rating,,C,
+5,battery maximum current,,A,target >= 4 x I_max
+6,estimated hover time,,min,aim for >= 5 min
