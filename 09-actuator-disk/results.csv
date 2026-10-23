@@ -1,0 +1,12 @@
+quantity,unit,value
+vehicle_mass,kg,
+propeller_diameter,m,
+comparison_diameter,m,
+hover_rotor_rpm,rpm,
+hover_thrust_per_rotor,N,
+induced_air_speed,m/s,
+total_ideal_hover_power,W,
+comparison_ideal_hover_power,W,
+power_ratio_comparison_to_installed,dimensionless,
+inflow_ratio,dimensionless,
+thrust_coefficient_tip_speed,dimensionless,
