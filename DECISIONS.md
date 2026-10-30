@@ -13,3 +13,7 @@ defense this semester, they ask exactly these questions.
 call?"** If the evidence link is empty, the decision isn't defensible yet.
 That's a to-do, and the last column says what must be modeled or measured
 before it's settled.
+
+> **Pairs (exercise 10):** both partners keep the same rows for the pair's
+> decisions. A change from your earlier individual design (motor, KV,
+> propeller, cell count, battery, ESC, frame material) needs a row.

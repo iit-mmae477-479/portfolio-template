@@ -1,0 +1,13 @@
+section,part,qty,unit_price_usd,line_total_usd,mass_g_each,link,key_spec,reason
+buy_now,Motor,4,,,,,,
+buy_now,Propeller (plus spares),,,,,,,
+buy_now,ESC,,,,,,,
+buy_now,Battery,1,,,,,,
+buy_now,Flight controller,1,,,,,mounting pattern:,
+buy_now,Frame fasteners,,,,,,,
+buy_now,Wiring and connectors,,,,,,,
+buy_now,Filament,2,,,,,,
+later,Radio receiver,1,,,,,,
+later,Companion computer,1,,,,,,
+later,Camera,1,,,,,,
+TOTAL,,,,,,,,
