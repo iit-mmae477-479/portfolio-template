@@ -1,0 +1,12 @@
+quantity,value,units
+bare_f1_vertical,,Hz
+bare_f1_lateral,,Hz
+motor_f1_vertical,,Hz
+motor_f1_lateral,,Hz
+motor_f2_vertical,,Hz
+peak_1P_lateral,,mm
+peak_BPF_vertical,,mm
+peak_2BPF_vertical,,mm
+modified_beam_mass,,g
+modified_f1_vertical,,Hz
+modified_f1_lateral,,Hz
